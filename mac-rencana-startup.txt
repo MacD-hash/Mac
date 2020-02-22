@@ -1,5 +1,5 @@
 Rencana Startup
 
 -membuat konsep
--laravel
+-laravel 5.8
 -bootstrap
