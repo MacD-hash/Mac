@@ -3,5 +3,5 @@ Rencana Startup
 -membuat konsep
 -laravel 5.8
 -javascript angular
--bootstrap
+-bootstrap 441
 -membuat struktur dasar 
