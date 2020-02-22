@@ -3,3 +3,4 @@ Rencana Startup
 -membuat konsep
 -laravel 5.8
 -bootstrap
+-membuat struktur dasar 
